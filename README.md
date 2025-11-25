@@ -73,13 +73,13 @@ Use the Trim Calculator spreadsheet to determine exact contract numbers.
 
 ## QUICK CHECKLIST
 
-[ ] Price closed outside 5-min ORB range
-[ ] FVG formed in breakout direction
-[ ] FVG candle completed
-[ ] Entered on close of confirmation candle
-[ ] Stop placed at high/low of candle BEFORE FVG
-[ ] First trim at 1.5R → Stop moved to breakeven
-[ ] Continue trimming per schedule
-[ ] Max 2 trades today
+- [ ] Price closed outside 5-min ORB range
+- [ ] FVG formed in breakout direction
+- [ ] FVG candle completed
+- [ ] Entered on close of confirmation candle
+- [ ] Stop placed at high/low of candle BEFORE FVG
+- [ ] First trim at 1.5R → Stop moved to breakeven
+- [ ] Continue trimming per schedule
+- [ ] Max 2 trades today
 
 ---
