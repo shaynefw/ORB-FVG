@@ -8,9 +8,9 @@
 - Chart Timeframe: 1-Minute
 - [ORB Indicator](https://www.tradingview.com/script/uJsja4dX-ORB-Opening-Range-Breakout/)
   - Settings: ORB total time = 5min, Session Time = NY open first 5 minutes
-- FVG Indicator: https://www.tradingview.com/script/jWY4Uiez-Fair-Value-Gap-LuxAlgo/
-- Trim Calculator: https://docs.google.com/spreadsheets/d/1-H46rJP_invFPwYxf4mOFRkO-fWFtciJfmAgRy6On9U/edit?usp=sharing
-- NQ Position Size Indicator: https://www.tradingview.com/script/pr4yuvXG-NQ-Position-Size-and-Risk-Reward-Calculator-V2/
+- [FVG Indicator](https://www.tradingview.com/script/jWY4Uiez-Fair-Value-Gap-LuxAlgo/)
+- [Trim Calculator](https://docs.google.com/spreadsheets/d/1-H46rJP_invFPwYxf4mOFRkO-fWFtciJfmAgRy6On9U/edit?usp=sharing)
+- [NQ Position Size Indicator](https://www.tradingview.com/script/pr4yuvXG-NQ-Position-Size-and-Risk-Reward-Calculator-V2/)
    - Settings: Disable "Show Distance Lines" (Optional but recommended)
 
 ---
